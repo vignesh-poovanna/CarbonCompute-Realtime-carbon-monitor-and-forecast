@@ -37,7 +37,7 @@ def load_intensity_csv(csv_path: str) -> pd.DataFrame:
     carbon_col = None
     possible_names = [
         "Carbon intensity gCO₂eq/kWh (direct)",
-        "Carbon intensity gCOâ‚‚eq/kWh (direct)",  # Your CSV has this encoding
+        "Carbon intensity gCOâ‚‚eq/kWh (direct)",  # the CSV has this encoding
         "Carbon intensity gCO2eq/kWh (direct)",
     ]
     
