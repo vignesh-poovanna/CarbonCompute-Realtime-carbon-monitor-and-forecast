@@ -28,17 +28,32 @@ CarbonCompute provides real-time monitoring and predictive analytics for carbon 
 - **Matplotlib/Plotly**: Data visualization
 
 ## Project Structure
-
 ```
 CarbonCompute-Realtime-carbon-monitor-and-forecast/
 ├── streamlit_app.py          # Main Streamlit application
 ├── emissions_core.py          # Core emissions calculation logic
 ├── lstm_forecast.keras        # Pre-trained LSTM model
 ├── IN_2024_hourly.csv        # Historical carbon intensity data for India
+├── screenshots/              # Application preview screenshots
 ├── requirements.txt           # Python dependencies
 ├── __pycache__/              # Python cache files
 └── README.md                 # Project documentation
 ```
+
+## Preview Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="screenshots/Screenshot1.png" alt="Dashboard Overview" width="400"/></td>
+      <td><img src="screenshots/Screenshot2.png" alt="Real-time Monitoring" width="400"/></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/Screenshot3.png" alt="Forecast Analysis" width="400"/></td>
+      <td><img src="screenshots/Screenshot4.png" alt="Historical Trends" width="400"/></td>
+    </tr>
+  </table>
+</div>
 
 ## Installation
 
