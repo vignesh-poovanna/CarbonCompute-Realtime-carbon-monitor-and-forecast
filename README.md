@@ -42,18 +42,15 @@ CarbonCompute-Realtime-carbon-monitor-and-forecast/
 
 ## Preview Screenshots
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="screenshots/Screenshot1.png" alt="Dashboard Overview" width="400"/></td>
-      <td><img src="screenshots/Screenshot2.png" alt="Real-time Monitoring" width="400"/></td>
-    </tr>
-    <tr>
-      <td><img src="screenshots/Screenshot3.png" alt="Forecast Analysis" width="400"/></td>
-      <td><img src="screenshots/Screenshot4.png" alt="Historical Trends" width="400"/></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="screenshots/Screenshot1.png" alt="Dashboard Overview" width="49%" style="display: inline-block; margin: 0.5%;" />
+  <img src="screenshots/Screenshot2.png" alt="Real-time Monitoring" width="49%" style="display: inline-block; margin: 0.5%;" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot3.png" alt="Forecast Analysis" width="49%" style="display: inline-block; margin: 0.5%;" />
+  <img src="screenshots/Screenshot4.png" alt="Historical Trends" width="49%" style="display: inline-block; margin: 0.5%;" />
+</p>
 
 ## Installation
 
